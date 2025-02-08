@@ -44,7 +44,7 @@ _Not really, no. Only one concept was unfamiliar to me — the concept of a void
 *Yes, I googled the term "void element" to find an alternative definition. I found this GeekForGeeks webpage: [Describe The Void Elements In HTML](https://www.geeksforgeeks.org/describe-the-void-elements-in-html/)*
 
 ### **Screenshots**
-No images today! I'll start to include screenshots in future log entries.
+*No images today! I'll start to include screenshots in future log entries.*
 
 ### **Relevant Link(s)**
 - [Day 1 Tweet Update](https://x.com/autodidactdiary/status/1887324266804224356)
@@ -88,7 +88,7 @@ _Not yet, no._
 
 ### **Screenshots**:
 
-1. Day 2: CatPhotoApp Screenshot
+**1. Screenshot: CatPhotoApp (Day 2)**
 [![Day2-Cat-Photo-App-Screenshot.png](https://i.postimg.cc/qq1NFdW9/Day2-Cat-Photo-App-Screenshot.png)](https://postimg.cc/rRtyd7VJ)
 
 ### **Relevant Link(s)**:
@@ -96,5 +96,71 @@ _Not yet, no._
 - [100DaysOfCode Beeminder](https://www.beeminder.com/andrasv/100daysofcode)
 
 
+
+
+
+
+<h2 align="center"> Day 3: Friday, February 7, 2025</h2>
+
+### **Today's Progress**: 
+
+*I completed day 3 of the challenge! Here's what I did today:*
+
+- *Completed a 30 minute coding session! Started at 4:23 and ended at 4:53PM.*
+- *Continued working on FreeCodeCamp's Responsive Web Design course. Completed 11 HTML exercises today (#32 → #43)*
+
+### **Thoughts & Feelings**: 
+
+*Oof, today was a hard day, mentally. I woke up with in a mood that's best described as "scatterbrained". The initial enthusiam of starting the challenge evaporated, so I needed to apply some willpower to get myself going. I got it done, though.*
+
+*I will revisit the reasons why I started this challenge; it'll be a good idea to recite aloud why I care about becoming a better programmer. I imagine this won't be the only time I feel my motivation take a dip.*
+
+*For the record, it's okay for me to not feel ethusiastic, but that's no excuse for me to neglect doing what I promised I'd do! I will continue forward one more day.*
+
+
+### **Post-Practice Review**:
+
+**1. What concepts did you learn from your practice session today?**
+
+*Today, I learned about and practiced with these HTML elements:*
+
+- *`<section>` element*
+- *`<strong>` element*
+- *`<form>` element*
+- *`action=""` attribute*
+- *`input` element*
+- *`type=""` attribute*
+- *`name=""` attribute*
+- *`placeholder=""` attribute*
+- *`required` attribute*
+
+
+**2. Did you make any mistakes today? If so, are there any lessons you can derive from them?**
+
+*Yes, a couple syntax errors. All of them related to the input element, specifically, the attributes. Going forward, I need to be mindful to remember to include the `=""` syntax when using the `type`, `name`, `placeholder` attributes.*
+
+**3. Are there any concepts you feel unsure about? Is there anything you want to research or do more drills on?**
+
+*Yes, I feel uncertain about the `<form>` and `<input>` elements. Today was the first time I encountered them.*
+
+*Apart from that, I identified a few confusion points today about concepts I'd previously seen. I turned them into questions, here they are for the record:*
+
+- *What is an "element"?*
+- *What is an "attribute"?*
+- *What does it mean to "set a value" for an attribute?*
+
+**4. Did you use any tutorial resources outside of FreeCodeCamp?**
+
+*No, not today.*
+
+### **Screenshots**
+
+**1. Screenshot: CatPhotoApp (Day 3)**
+[![Day3-Screenshot-Cat-Photo-App.png](https://i.postimg.cc/MKQQDTYB/Day3-Screenshot-Cat-Photo-App.png)](https://postimg.cc/TpT12TF2)
+
+
+### **Relevant Link(s)**
+- [Day 3 Tweet Update]()
+- [100DaysOfCode Beeminder](https://www.beeminder.com/andrasv/100daysofcode)
 
 
